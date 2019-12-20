@@ -1,18 +1,7 @@
-News classification is a supervised learning
-task in which news articles are assigned to
-categories based on the training. This project
-focuses in the field of data mining. With the rapid
-growth of online text data, text categorization has
-become an essential technique for handling and
-dealing with this vast amount of data. To build a
-classifier manually is very difficult and timeconsuming,
-so the better way is to make a
-classifier learn from examples.
-In this project, we are using LDA (Linear
-Discriminant Allocation), Random Forest,
-SVM(Support Vector Machine) and Naïve Byes
-classifiers to classify text. After crawling the news
-data from the internet, preprocessing it then
-training the model with 80% of data and testing it
-on remaining 20% to check the accuracy to the
-trained model.
+News classification is a supervised learning task in which news articles are assigned to
+categories based on the training. This project focuses in the field of data mining. With the rapid
+growth of online text data, text categorization has become an essential technique for handling and
+dealing with this vast amount of data. To build a classifier manually is very difficult and timeconsuming,
+so the better way is to make a classifier learn from examples.
+In this project first we categorized the news and then based on sentiment analysis we can able to answer either 
+the news is positive or negative.
